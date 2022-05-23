@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevIntOffice", "DevIntOffice.csproj", "{19C29897-452B-488B-87A6-7BEB5F9956FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C29897-452B-488B-87A6-7BEB5F9956FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C29897-452B-488B-87A6-7BEB5F9956FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C29897-452B-488B-87A6-7BEB5F9956FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C29897-452B-488B-87A6-7BEB5F9956FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D52DF2D-86D6-4A0E-B25B-9C48F615F208}
+	EndGlobalSection
+EndGlobal
